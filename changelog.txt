@@ -10,3 +10,6 @@ DEVELOPMENT CHANGELOG:
 *Add utils concerning death of leaders
 *Add changelog
 *Add description
+
+0.0.3BETA
+*Add label for barn in S1
