@@ -1,0 +1,12 @@
+######################
+DEVELOPMENT CHANGELOG:
+######################
+
+0.0.1BETA
+*Add map for first scenario
+
+0.0.2BETA
+*Add first scenario, make it playable
+*Add utils concerning death of leaders
+*Add changelog
+*Add description
