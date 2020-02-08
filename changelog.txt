@@ -13,3 +13,8 @@ DEVELOPMENT CHANGELOG:
 
 0.0.3BETA
 *Add label for barn in S1
+
+0.0.4BETA
+*Remove limiting of recruits
+*Add map for S2
+*Add S2
