@@ -18,3 +18,7 @@ DEVELOPMENT CHANGELOG:
 *Remove limiting of recruits
 *Add map for S2
 *Add S2
+
+0.0.5BETA
+*Add maps for S3 and S5
+*
