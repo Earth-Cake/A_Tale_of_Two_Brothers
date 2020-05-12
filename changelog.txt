@@ -21,4 +21,7 @@ DEVELOPMENT CHANGELOG:
 
 0.0.5BETA
 *Add maps for S3 and S5
-*
+
+0.0.6BETA
+*Add dwarf easter egg
+*Update S1 map to match it
