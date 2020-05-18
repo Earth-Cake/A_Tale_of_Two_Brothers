@@ -25,3 +25,9 @@ DEVELOPMENT CHANGELOG:
 0.0.6BETA
 *Add dwarf easter egg
 *Update S1 map to match it
+
+0.0.7BETA
+*Add easter egg reference to AOI in S2
+
+0.0.8BETA
+*Added easter egg for S2, granting player items and increasing one of items' damage when unit advances
