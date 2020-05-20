@@ -31,9 +31,12 @@ DEVELOPMENT CHANGELOG:
 
 0.0.8BETA
 *Added easter egg for S2, granting player items and increasing one of items' damage when unit advances
+<<<<<<< HEAD
 
 0.0.9BETA
 *Regular maintenance and bugfix
 *Added S3
 *Added S4 map
 *Modified S3 map
+=======
+>>>>>>> 5f7ce3107c1ed0d8f1cfaa36ab69c34d75d8c07f
