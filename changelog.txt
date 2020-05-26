@@ -37,3 +37,8 @@ DEVELOPMENT CHANGELOG:
 *Added S3
 *Added S4 map
 *Modified S3 map
+
+0.1.0BETA
+*Modified S2 map, and modified S2 accordingly
+*Added new winning condition in S1
+*S1 leader is now also present in S2
