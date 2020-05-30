@@ -46,6 +46,14 @@ DEVELOPMENT CHANGELOG:
 0.1.1BETA
 *Added events for S3
 *Modified S3 map a bit
-*Changed village name from Wyenden to Wintervale
 *Added mace item image
 *Added names for items in easter egg in S2
+
+0.1.2BETA
+*Removed braziers from S3 map
+*Changed village name from Wyenden to Wintervale
+*Added S4
+*Fix a bug about Mace of Malice
+*Added "persistent=yes" to orc enemy in S1 and S2, and the same key for troll side in S3
+*Add journey map
+*Modified S5 map to feature more burnt forest
