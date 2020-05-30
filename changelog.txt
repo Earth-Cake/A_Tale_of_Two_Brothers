@@ -42,3 +42,10 @@ DEVELOPMENT CHANGELOG:
 *Modified S2 map, and modified S2 accordingly
 *Added new winning condition in S1
 *S1 leader is now also present in S2
+
+0.1.1BETA
+*Added events for S3
+*Modified S3 map a bit
+*Changed village name from Wyenden to Wintervale
+*Added mace item image
+*Added names for items in easter egg in S2
