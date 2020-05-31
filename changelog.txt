@@ -57,3 +57,4 @@ DEVELOPMENT CHANGELOG:
 *Added "persistent=yes" to orc enemy in S1 and S2, and the same key for troll side in S3
 *Add journey map
 *Modified S5 map to feature more burnt forest
+*Modify starting and ending year
