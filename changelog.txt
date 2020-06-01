@@ -69,3 +69,10 @@ DEVELOPMENT CHANGELOG:
 *Add event in S5 where after main enemy leader dies, remaining one speak
 *Add last scenario note
 *Modify S5 map
+*New version of mace in image/items
+
+0.2.0BETA
+*First balance run
+*Changed names of S2, S4 and S5
+*Changed easiest difficulty label from "Beginner" to "Easy"
+*Other small fixes
