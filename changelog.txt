@@ -58,3 +58,14 @@ DEVELOPMENT CHANGELOG:
 *Add journey map
 *Modified S5 map to feature more burnt forest
 *Modify starting and ending year
+
+0.1.3BETA
+*Bugfix commit
+*Add S5
+
+0.1.4BETA
+*Add traits for all enemy leaders
+*Add an "easter egg" in S1
+*Add event in S5 where after main enemy leader dies, remaining one speak
+*Add last scenario note
+*Modify S5 map
