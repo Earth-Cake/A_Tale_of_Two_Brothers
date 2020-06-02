@@ -76,3 +76,8 @@ DEVELOPMENT CHANGELOG:
 *Changed names of S2, S4 and S5
 *Changed easiest difficulty label from "Beginner" to "Easy"
 *Other small fixes
+
+0.2.1BETA
+*Balance fixes
+*Give all orc units guarding fortresses guardian ai special
+*Give passive_leader=yes to Darken
