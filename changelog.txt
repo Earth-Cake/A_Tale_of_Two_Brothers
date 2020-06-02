@@ -81,3 +81,10 @@ DEVELOPMENT CHANGELOG:
 *Balance fixes
 *Give all orc units guarding fortresses guardian ai special
 *Give passive_leader=yes to Darken
+
+0.2.2BETA
+*Renamed S1
+*Balance fixes
+
+0.2.3BETA
+*Critical bugfix
