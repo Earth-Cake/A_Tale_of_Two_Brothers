@@ -90,7 +90,11 @@ DEVELOPMENT CHANGELOG:
 *Critical bugfix
 
 0.2.4BETA
+*Balance fixes
 *Renamed S3
 *Add snowbits embellishments to S3 and S4 maps
 *Made Arvith unable to pick up Mace of Malice
 *Moved some macros from macros.cfg to atotb-utils.cfg
+
+0.2.5BETA
+*Balance fixes
