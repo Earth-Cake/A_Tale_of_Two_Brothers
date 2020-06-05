@@ -30,33 +30,33 @@ DEVELOPMENT CHANGELOG:
 *Add easter egg reference to AOI in S2
 
 0.0.8BETA
-*Added easter egg for S2, granting player items and increasing one of items' damage when unit advances
+*Add easter egg for S2, granting player items and increasing one of items' damage when unit advances
 
 0.0.9BETA
 *Regular maintenance and bugfix
-*Added S3
-*Added S4 map
-*Modified S3 map
+*Add S3
+*Add S4 map
+*Modify S3 map
 
 0.1.0BETA
-*Modified S2 map, and modified S2 accordingly
-*Added new winning condition in S1
+*Modify S2 map, and modify S2 accordingly
+*Add new winning condition in S1
 *S1 leader is now also present in S2
 
 0.1.1BETA
-*Added events for S3
-*Modified S3 map a bit
-*Added mace item image
-*Added names for items in easter egg in S2
+*Add events for S3
+*Modify S3 map a bit
+*Add mace item image
+*Add names for items in easter egg in S2
 
 0.1.2BETA
-*Removed braziers from S3 map
-*Changed village name from Wyenden to Wintervale
-*Added S4
+*Remove braziers from S3 map
+*Change village name from Wyenden to Wintervale
+*Add S4
 *Fix a bug about Mace of Malice
 *Added "persistent=yes" to orc enemy in S1 and S2, and the same key for troll side in S3
 *Add journey map
-*Modified S5 map to feature more burnt forest
+*Modify S5 map to feature more burnt forest
 *Modify starting and ending year
 
 0.1.3BETA
@@ -66,24 +66,24 @@ DEVELOPMENT CHANGELOG:
 0.1.4BETA
 *Add traits for all enemy leaders
 *Add an "easter egg" in S1
-*Add event in S5 where after main enemy leader dies, remaining one speak
+*Add event in S5 where after main enemy leader dies, remaining ones speak
 *Add last scenario note
 *Modify S5 map
 *New version of mace in image/items
 
 0.2.0BETA
 *First balance run
-*Changed names of S2, S4 and S5
-*Changed easiest difficulty label from "Beginner" to "Easy"
+*Change names of S2, S4 and S5
+*Change easiest difficulty label from "Beginner" to "Easy"
 *Other small fixes
 
 0.2.1BETA
 *Balance fixes
 *Give all orc units guarding fortresses guardian ai special
-*Give passive_leader=yes to Darken
+*Give "passive_leader=yes" to Darken
 
 0.2.2BETA
-*Renamed S1
+*Rename S1
 *Balance fixes
 
 0.2.3BETA
@@ -91,10 +91,15 @@ DEVELOPMENT CHANGELOG:
 
 0.2.4BETA
 *Balance fixes
-*Renamed S3
+*Rename S3
 *Add snowbits embellishments to S3 and S4 maps
-*Made Arvith unable to pick up Mace of Malice
-*Moved some macros from macros.cfg to atotb-utils.cfg
+*Make Arvith unable to pick up Mace of Malice
+*Move some macros from macros.cfg to atotb-utils.cfg
 
 0.2.5BETA
 *Balance fixes
+
+0.2.6BETA
+*Modify S1 dwarf easter egg, now it gives 20 gold to each player
+*Set player colors to red and darkred
+*Remove "passive_leader=yes" from Darken and make him to avoid every location except his keep and village for heal
