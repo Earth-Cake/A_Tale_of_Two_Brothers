@@ -103,3 +103,10 @@ DEVELOPMENT CHANGELOG:
 *Modify S1 dwarf easter egg, now it gives 20 gold to each player
 *Set player colors to red and darkred
 *Remove "passive_leader=yes" from Darken and make him to avoid every location except his keep and village for heal
+
+0.2.7BETA
+*First dialogue
+*Improved balance of S3 and S4 by decreasing gold and income, as they have been found too hard even on easy difficulty
+
+0.3.0BETA
+*Dialogues almost completed for first three scenarios
