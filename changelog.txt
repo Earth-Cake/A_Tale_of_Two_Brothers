@@ -110,3 +110,6 @@ DEVELOPMENT CHANGELOG:
 
 0.3.0BETA
 *Dialogues almost completed for first three scenarios
+
+0.3.1BETA
+*Difficulty reduced for first three scenarios
