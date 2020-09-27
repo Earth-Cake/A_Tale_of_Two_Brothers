@@ -113,3 +113,8 @@ DEVELOPMENT CHANGELOG:
 
 0.3.1BETA
 *Difficulty reduced for first three scenarios
+
+0.3.2BETA
+*Removed level 2 orc recruits completely
+*Added more gold to enemy leaders in S4
+*Added event considering the sovereign in S4
