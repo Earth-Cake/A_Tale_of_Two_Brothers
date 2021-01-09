@@ -118,3 +118,12 @@ DEVELOPMENT CHANGELOG:
 *Removed level 2 orc recruits completely
 *Added more gold to enemy leaders in S4
 *Added event considering the sovereign in S4
+
+0.4.0BETA
+*Major rehaul:
+    *The players are now able to recruit only level 0s in first scenario, while they will be able to recruit several level 1s in S2 and S3, and finally giving player unlimited number of level 1s in S4
+    *S2: Rualsha is now Assassin on all difficulties
+    *S1 map is changed
+    *Added difficulty label to campaign description
+    
+    **Dev: removed macros.cfg file
