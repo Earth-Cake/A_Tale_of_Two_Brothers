@@ -125,5 +125,9 @@ DEVELOPMENT CHANGELOG:
     *S2: Rualsha is now Assassin on all difficulties
     *S1 map is changed
     *Added difficulty label to campaign description
-    
+
     **Dev: removed macros.cfg file
+
+0.4.1BETA
+*Fixed a critical bug
+*Fixed some wrong coordinates in S1
